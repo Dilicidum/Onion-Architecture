@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3XuPNXuy9t8kLZParjgFhu9h2rPw9ZDECvUBc6uPeb/ij8pA+lR9buU9tAEUWGM3G63nWdubXWgeuD5/EB75bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosty\\OneDrive\\Desktop\\Шарага\\Programming\\Lab4\\Hospital\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosty\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\kosty\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kosty\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kosty\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\kosty\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\kosty\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

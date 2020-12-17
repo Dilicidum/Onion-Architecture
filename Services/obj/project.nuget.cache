@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RV1kXH1Bh63j8XfAiQAT3Tqqh7hk2ZwdhL9mFhEHLCNvIhGKsUad+k/v6GrHG8yuD95Z6QzO8f6hXzPIZiVemA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosty\\OneDrive\\Desktop\\Шарага\\Programming\\Lab4\\Hospital\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosty\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
